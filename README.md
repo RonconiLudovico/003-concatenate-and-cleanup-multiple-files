@@ -13,7 +13,7 @@ Examine the structure of the text files to understand how the data is organized.
 
 [] clean dataset, the function will take care of performing the following data cleaning tasks:
 
-Remove any duplicate lines.
+[] Remove any duplicate lines.
 Remove any lines with missing or incomplete information.
 Remove any leading or trailing whitespace from each line.
 save file, the function will take care of save the cleaned and concatenated dataset to a new text file named combined_products.txt including a single header and with each value separated with a comma.
