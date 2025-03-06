@@ -19,7 +19,7 @@ def concatenate_files(files):
                     f_new.write(line)
     
 
-def clean_dataset():
+def clean_dataset(files):
     pass
 
             
@@ -44,7 +44,7 @@ def main():
         clean_dataset(original_files)
     
     else:
-        sys.exit(1)
+        sys.exit()
 
 
 
