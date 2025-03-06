@@ -1,0 +1,4 @@
+ProductID | Name | Category | Price | Stock
+201 | Widget X | Tools | $18.99 | 40
+202 | Gadget Y | Electronics | 79.99 | 12
+203 | Device Z | Electronics | $55.00 | N/A

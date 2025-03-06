@@ -1,0 +1,4 @@
+ID,Name,Type,Cost,Availability
+301,Tool A,Tools,$25.50,20
+302,Tool B,Tools,$30.00,15
+303,Gadget Q,Electronics,$110.00,Out of Stock

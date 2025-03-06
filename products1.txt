@@ -1,0 +1,5 @@
+ProductID, Name, Category, Price, Stock
+101, Widget A, Tools, $12.99, 34
+102, Widget B, Tools, $15.49, 27
+103, Gadget C, Electronics, $99.99, 15
+104, Device D, Electronics, $45.00, Out of Stock
